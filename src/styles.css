@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+}
+
+.btnStyle{
+    background-color: green;
+    border: none;
+    padding: 5px 20px;
+    cursor: pointer;
+    color: white;
+}
+
+.counterDisplay{
+    padding: 5px 20px;
+    background-color: whitesmoke;
+}

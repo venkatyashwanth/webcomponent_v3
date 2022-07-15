@@ -1,0 +1,30 @@
+{
+  "name": "webcomp_v3",
+  "version": "1.1.0",
+  "description": "",
+  "main": "dist/index.js",
+  "source": "/src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "files": [
+    "dist/index.js",
+    "dist/index.js.map",
+    "dist/index.css",
+    "dist/index.css.map"
+  ],
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.6.2",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "prop-types": "^15.8.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-to-webcomponent": "^1.6.1"
+  }
+}
